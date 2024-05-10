@@ -105,11 +105,24 @@ SINUSOIDAL:
 ## 5. Resonant System
 
 PROGRAM:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/108789993/fe215817-9327-4113-addb-3a3b6eb28842)
+
 BLOCK DIAGRAM:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/108789993/0cbda72a-6ebe-42d0-a369-0ddbc4c9933f)
+
 STEP RESPONSE:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/108789993/e6fd4e63-91a5-4986-bf28-14ef62c9e493)
+
 SIMULINK:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/108789993/6ae56bb0-84a7-48c1-864d-f8d6201c442e)
+
 SINUSOIDAL:
 
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/108789993/083ef8ac-7311-4400-bdc3-98c68d75099c)
 
 ## 6. Electrical Filter with Multiple Poles
 
