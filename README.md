@@ -18,9 +18,14 @@ STEP RESPONSE:
 
 ![1 step response](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/ed5666dc-57c4-4534-924b-7f22b07486a6)
 
-SIMULINK
+SIMULINK: 
 
 ![1 simulink](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/5ef80436-1d1c-435f-a694-3f82f5826369)
+
+Sinusoidal: 
+
+![sinuisdoal](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/09abc744-d344-44db-a811-9838624f0f36)
+
 
 ## 2. Second Order Overdamped System
 ![Screenshot 2024-05-10 230042](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/92bd125e-1cd7-45c2-a611-f3a07fe61a79)
