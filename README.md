@@ -1,4 +1,4 @@
-![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/ebfb472f-e772-40df-85ff-e41a68035d94)# Laboratory 2
+# Laboratory 2
 
 ## 1. Second Order Underdamped System
 
