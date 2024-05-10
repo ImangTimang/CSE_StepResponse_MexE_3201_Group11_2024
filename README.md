@@ -28,7 +28,30 @@ Sinusoidal:
 
 
 ## 2. Second Order Overdamped System
-![Screenshot 2024-05-10 230042](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/92bd125e-1cd7-45c2-a611-f3a07fe61a79)
+
+
+PROGRAM: 
+
+![2 PROGRAM](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/ebae9072-9b65-40c1-b2b1-c81786d4812b)
+
+BLOCK DIAGRAM:
+
+![2 BLOCK DIAGRAM](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/d4f9c902-a034-4a64-8547-f834fc763662)
+
+STEP RESPONSE:
+
+![2 stp](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/6bb1448d-1d50-475f-adf8-b0a60d5e9d89)
+
+
+SIMULINK: 
+
+![2 sm](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/f1a3c0a8-940d-4a6d-8200-4eb4c318313e)
+
+
+Sinusoidal:
+
+![2ass](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/85d6f2ec-b92a-4fff-b9fa-f7e56ec20b62)
+
 
 ## 3. Second Order Critically Damped System
 
