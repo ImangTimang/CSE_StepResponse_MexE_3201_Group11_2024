@@ -76,7 +76,16 @@ SIMULINK:
 
 SINUSOIDAL: 
 
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/e5492fd5-4247-43ca-adba-fb72fc787a59)
+
+
 ## 4. First Order System
+
+PROGRAM:
+BLOCK DIAGRAM:
+STEP RESPONSE:
+SIMULINK:
+SINUSOIDAL:
 
 ## 5. Resonant System
 
