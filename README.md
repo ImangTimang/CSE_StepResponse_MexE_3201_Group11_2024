@@ -2,6 +2,8 @@
 
 ## 1. Second Order Underdamped System
 ![11](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/8c440edc-cf56-4f51-baa6-18fbde28f9eb)
+![111](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/875b2f8c-6e4e-418d-8548-92de7214abcb)
+
 
 ## 2. Second Order Overdamped System
 
