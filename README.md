@@ -152,7 +152,14 @@ SINUSOIDAL:
 ## 7. Plant with Time Delay
 
 PROGRAM:
+
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/1fb81750-13f6-46ac-8473-9efab313835f)
+
 BLOCK DIAGRAM:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/44e42168-6f91-4818-9bc4-89392496a929)
+
 STEP RESPONSE:
 
 ![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/4ac43ecc-bc01-43fb-99fd-6ec571f37b3c)
@@ -168,7 +175,13 @@ SINUSOIDAL:
 ## 8. Nonlinear System Approximation
 
 PROGRAM:
+
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/3a019b79-a0a1-4f62-ab72-b81559473995)
+
 BLOCK DIAGRAM:
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/7c34f6d1-a297-45a2-87ff-051a8b82c051)
+
 STEP RESPONSE:
 
 ![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/5f3c4e43-0d80-4d73-82ad-37abccd3dc37)
