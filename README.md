@@ -158,13 +158,28 @@ STEP RESPONSE:
 ![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/4ac43ecc-bc01-43fb-99fd-6ec571f37b3c)
 
 SIMULINK:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/b530ec3b-d75b-442c-9e84-e3fdb7226fe9)
+
 SINUSOIDAL:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/deaffb55-44cb-4505-9000-f73689f64aef)
 
 ## 8. Nonlinear System Approximation
 
 PROGRAM:
 BLOCK DIAGRAM:
 STEP RESPONSE:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/5f3c4e43-0d80-4d73-82ad-37abccd3dc37)
+
 SIMULINK:
+
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/72929660-4cd5-4705-9b11-a6a1c1ffeb54)
+
 SINUSOIDAL:
+
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/9b554524-53c5-47c2-a0a2-059f914e8ac5)
 
