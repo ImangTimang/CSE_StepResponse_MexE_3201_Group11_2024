@@ -71,6 +71,9 @@ STEP RESPONSE:
 
 SIMULINK: 
 
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/c2900fa4-7644-42e8-9e58-f0ba7eef17e9)
+
+
 Sinusoidal: 
 
 ## 4. First Order System
