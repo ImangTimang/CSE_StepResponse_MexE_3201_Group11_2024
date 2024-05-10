@@ -1,7 +1,7 @@
 # Laboratory 2
 
 ## 1. Second Order Underdamped System
-(https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/eefeb432-c3ac-4427-ba86-9d788101056f)
+![Screenshot 2024-05-10 225616](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/0865a9c2-2cad-4385-b078-6cc51bf64584)
 
 ## 2. Second Order Overdamped System
 
