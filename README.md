@@ -8,6 +8,8 @@ PROGRAM:
 
 
 BLOCK DIAGRAM:
+
+
 ![1 blosck diagram](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/01d493f6-f656-493d-be44-6b81ee8b02b6)
 
 STEP RESPONSE: 
