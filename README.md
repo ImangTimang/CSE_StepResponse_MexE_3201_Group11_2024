@@ -90,6 +90,9 @@ BLOCK DIAGRAM:
 ![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/8539c6a5-cb09-4056-8efe-3afba3eaf923)
 
 STEP RESPONSE:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/7625692c-b1c7-4e89-b46a-1d659cabeaae)
+
 SIMULINK:
 SINUSOIDAL:
 
