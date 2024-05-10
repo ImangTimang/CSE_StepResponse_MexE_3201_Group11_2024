@@ -39,6 +39,9 @@ PROGRAM:
 
 BLOCK DIAGRAM:
 
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/1a729a92-a6d4-430f-b451-14e18b279eca)
+
+
 STEP RESPONSE: 
 
 SIMULINK: 
