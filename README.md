@@ -22,7 +22,7 @@ SIMULINK:
 
 ![1 simulink](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/5ef80436-1d1c-435f-a694-3f82f5826369)
 
-Sinusoidal: 
+SINUSOIDAL: 
 
 ![sinuisdoal](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/09abc744-d344-44db-a811-9838624f0f36)
 
@@ -48,7 +48,7 @@ SIMULINK:
 ![2 sm](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/f1a3c0a8-940d-4a6d-8200-4eb4c318313e)
 
 
-Sinusoidal:
+SINUSOIDAL:
 
 ![2ass](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/85d6f2ec-b92a-4fff-b9fa-f7e56ec20b62)
 
@@ -74,15 +74,40 @@ SIMULINK:
 ![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/c2900fa4-7644-42e8-9e58-f0ba7eef17e9)
 
 
-Sinusoidal: 
+SINUSOIDAL: 
 
 ## 4. First Order System
 
 ## 5. Resonant System
 
+PROGRAM:
+BLOCK DIAGRAM:
+STEP RESPONSE:
+SIMULINK:
+SINUSOIDAL:
+
+
 ## 6. Electrical Filter with Multiple Poles
+
+PROGRAM:
+BLOCK DIAGRAM:
+STEP RESPONSE:
+SIMULINK:
+SINUSOIDAL:
 
 ## 7. Plant with Time Delay
 
+PROGRAM:
+BLOCK DIAGRAM:
+STEP RESPONSE:
+SIMULINK:
+SINUSOIDAL:
+
 ## 8. Nonlinear System Approximation
+
+PROGRAM:
+BLOCK DIAGRAM:
+STEP RESPONSE:
+SIMULINK:
+SINUSOIDAL:
 
