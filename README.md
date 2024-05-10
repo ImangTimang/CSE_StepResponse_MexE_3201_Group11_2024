@@ -32,6 +32,16 @@ Sinusoidal:
 
 ## 3. Second Order Critically Damped System
 
+PROGRAM: 
+
+BLOCK DIAGRAM:
+
+STEP RESPONSE: 
+
+SIMULINK: 
+
+Sinusoidal: 
+
 ## 4. First Order System
 
 ## 5. Resonant System
