@@ -4,6 +4,7 @@
 ![Screenshot 2024-05-10 225616](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/0865a9c2-2cad-4385-b078-6cc51bf64584)
 
 ## 2. Second Order Overdamped System
+![Screenshot 2024-05-10 230042](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157549014/92bd125e-1cd7-45c2-a611-f3a07fe61a79)
 
 ## 3. Second Order Critically Damped System
 
