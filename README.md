@@ -154,6 +154,9 @@ SINUSOIDAL:
 PROGRAM:
 BLOCK DIAGRAM:
 STEP RESPONSE:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157728066/4ac43ecc-bc01-43fb-99fd-6ec571f37b3c)
+
 SIMULINK:
 SINUSOIDAL:
 
