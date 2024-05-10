@@ -99,6 +99,9 @@ SIMULINK:
 
 SINUSOIDAL:
 
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/b5b08b76-f5fa-4b20-84ce-83e5eb28fbc6)
+
+
 ## 5. Resonant System
 
 PROGRAM:
