@@ -99,10 +99,27 @@ SINUSOIDAL:
 ## 6. Electrical Filter with Multiple Poles
 
 PROGRAM:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/108789993/479658cd-55d3-4375-89f5-409c27c5eb8a)
+
 BLOCK DIAGRAM:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/108789993/298aab9b-b682-41cd-9d90-f5c097cb373a)
+
 STEP RESPONSE:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/108789993/47d187d3-d5a8-4772-92b7-373e224c9aed)
+
+
 SIMULINK:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/108789993/cee13b38-f1f3-4e5f-a098-e3fbb986d244)
+
+
 SINUSOIDAL:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/108789993/94b884bc-e572-4dd8-ac66-e9acd93c5d64)
+
 
 ## 7. Plant with Time Delay
 
