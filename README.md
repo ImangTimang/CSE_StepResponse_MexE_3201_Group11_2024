@@ -86,6 +86,9 @@ PROGRAM:
 ![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/3cf00240-b1cf-40f4-afa4-8c59f3e89fa3)
 
 BLOCK DIAGRAM:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/8539c6a5-cb09-4056-8efe-3afba3eaf923)
+
 STEP RESPONSE:
 SIMULINK:
 SINUSOIDAL:
