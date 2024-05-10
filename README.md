@@ -94,6 +94,9 @@ STEP RESPONSE:
 ![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/7625692c-b1c7-4e89-b46a-1d659cabeaae)
 
 SIMULINK:
+
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/5d0b3d8a-d119-480c-bba5-4d0f36d56336)
+
 SINUSOIDAL:
 
 ## 5. Resonant System
