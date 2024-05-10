@@ -34,6 +34,9 @@ Sinusoidal:
 
 PROGRAM: 
 
+![image](https://github.com/ImangTimang/CSE_StepResponse_MexE_3201_Group11_2024/assets/157492494/1acd9add-f52f-42c4-97df-4f439c554207)
+
+
 BLOCK DIAGRAM:
 
 STEP RESPONSE: 
